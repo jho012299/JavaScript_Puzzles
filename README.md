@@ -1,1 +1,1 @@
-# JavaScript_Puzzles
+JavaScript puzzles to practice logic
